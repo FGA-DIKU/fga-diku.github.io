@@ -1,10 +1,12 @@
 ---
-title: "BelongieLab - Research"
+title: "FGA DIKU - Research"
 layout: textlay
-excerpt: "BelongieLab -- Research"
+excerpt: "FGA DIKU -- Research"
 sitemap: false
 permalink: /research/
 ---
+
+This page is currentely contains the research description of [belongielab.org/](https://www.belongielab.org/)
 
 # Research #
 

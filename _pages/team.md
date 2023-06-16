@@ -1,12 +1,14 @@
 ---
-title: "Belongie Lab - Team"
+title: "FGA DIKU - Team"
 layout: gridlay
-excerpt: "Belongie Lab: Team members"
+excerpt: "FGA DIKU: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
+
+This page currentely contains the group members of [belongielab.org/](https://www.belongielab.org/)
 
 ## Faculty
 {% assign number_printed = 0 %}

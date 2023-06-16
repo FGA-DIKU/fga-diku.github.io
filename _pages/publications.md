@@ -1,13 +1,15 @@
 ---
-title: "BelongieLab - Publications"
+title: "FGA DIKU - Publications"
 layout: gridlay
-excerpt: "BelongieLab -- Publications."
+excerpt: "FGA DIKU -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
+
+This page currentely contains the publications of [belongielab.org/](https://www.belongielab.org/)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=chD5XxkAAAAJ)
