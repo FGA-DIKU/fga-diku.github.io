@@ -5,9 +5,13 @@ excerpt: "FGA DIKU -- Home."
 sitemap: false
 permalink: /
 ---
-This website is under construction and based upon [belongielab.org/](https://www.belongielab.org/). The contents of this website is in many places still the content of [belongielab.org/](https://www.belongielab.org/).
+The contents of this website is in many places still the content of [belongielab.org/](https://www.belongielab.org/).
 
-Welcome! Describe FGA DIKU and what we do...
+We are a part of the Fine-Grained Analysis (FGA) collaboratory at [the Pioneer Centre for AI](https://www.aicentre.dk/) associated with the computer science department at the University of Copenhagen ([DIKU](https://di.ku.dk/english/)).  
+Welcome! 
+
+Led by [Mads Nielsen](https://scholar.google.com/citations?user=2QCJXEkAAAAJ&hl=en) we conduct research and undertake projects within the scope of fine-grained analysis.   
+Describe FGA DIKU and what we do...
 
 [//]: # (BELONGE LAB: Our lab carries out research in Computer Vision and Machine Learning, exploring problem areas including fine-grained analysis of multimodal data, self-supervised learning, 2D/3D generative models, and augmented reality.)
 
