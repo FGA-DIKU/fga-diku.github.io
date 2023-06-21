@@ -1,2 +1,2 @@
-# https://www.fga-diku.github.io/
+# https://fga-diku.github.io/
 Lab Website
