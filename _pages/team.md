@@ -52,6 +52,7 @@ This page currentely contains the group members of [belongielab.org/](https://ww
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
 </div>

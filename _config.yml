@@ -29,7 +29,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+# Plugins
+plugins:
+  - jekyll-seo-tag
 
 # Markdown Processing
 kramdown:
