@@ -1,2 +1,2 @@
-# belongielab.github.io
+# https://fga-diku.github.io/
 Lab Website
