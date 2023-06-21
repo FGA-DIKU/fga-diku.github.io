@@ -10,9 +10,9 @@ permalink: /projects/
 
 Here we showcase some of the projects we are currently involved with. 
 
-### PHAIR ### 
+### PHAIR -- Pharmacovigilance by AI Real-time Analyzes ### 
 
-The goal of the research project [PHAIR](https://di.ku.dk/english/news/2022/faster-knowledge-of-side-effects-via-artificial-intelligence/) -- Pharmacovigilance by AI Real-time Analyzes -- is to ensure faster and better knowledge about side effects and thereby increase the safety of medicinal products. 
+The goal of the research project [PHAIR](https://di.ku.dk/english/news/2022/faster-knowledge-of-side-effects-via-artificial-intelligence/) is to ensure faster and better knowledge about side effects and thereby increase the safety of medicinal products. 
 The project will make it possible to pick up unwanted effects of medicines faster and thereby increase the quality of treatment with medicines. 
 This will be done by combining national health data and using artificial intelligence in the form of algorithms and pattern recognition. The project is funded by Innovation Fund Denmark.
 

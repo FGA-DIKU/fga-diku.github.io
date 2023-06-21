@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: FGA DIKU
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The website of FGA DIKU. A group within the Fine-grained analysis collaboratory at the Pioneer Centre for Artificial Intelligence.
 baseurl: ""
 url: ""
 
@@ -29,9 +27,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
 
 # Markdown Processing
 kramdown:
