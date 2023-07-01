@@ -151,24 +151,6 @@ Annual Review of Plant Biology 72, 823-846
 
 <br/>
 
-#### [The value of bond underwriter relationships](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:uPCvBZYD9qUC) ####
-J Dick-Nielsen, MS Nielsen, SL von Rüden\
-Journal of Corporate Finance 68, 101930
-
-<br/>
-
-#### [Lokal værdiansættelse af optioner](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:jKT558fuBk8C) ####
-CJ Sørensen, MS Nielsen\
-
-
-<br/>
-
-#### [Active loan trading](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:oH8HCDhqVGsC) ####
-FJ Fabozzi, S Klingler, P Mølgaard, MS Nielsen\
-Journal of Financial Intermediation 46, 100868
-
-<br/>
-
 #### [Developing Machine Learning Models for Predicting Intensive Care Unit Resource Use During the COVID-19 Pandemic: Experiences from a Bi-Regional Health Care System Covering 2.5 …](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:I-2NeQpV75MC) ####
 SS Lorenzen, M Nielsen, E Jimenez-Solem, TS Petersen, A Perner, ...\
 
@@ -219,12 +201,6 @@ Alzheimer's & Dementia 16, e043850
 #### [Position paper on COVID-19 imaging and AI: From the clinical needs and technological challenges to initial AI solutions at the lab and national level towards a new era for AI …](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:xii_ZKWM4-0C) ####
 H Greenspan, RSJ Estépar, WJ Niessen, E Siegel, M Nielsen\
 Medical image analysis 66, 101800
-
-<br/>
-
-#### [Rig på viden. E10: Virksomhedsobligationer og rentespænd med Mads Stenbo Nielsen](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ynsZFq2pu0MC) ####
-MS Nielsen\
-
 
 <br/>
 
@@ -571,26 +547,20 @@ EIGHTH WORKSHOP ON INFORMATION THEORETIC METHODS IN SCIENCE AND ENGINEERING, 39
 
 <br/>
 
+
+
+<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2014</h3>
+---
+
 #### [Proceedings of the fifth international workshop on Mathematical Foundations of Computational Anatomy (MFCA 2015)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:rbm3iO8VlycC) ####
 X Pennec, S Joshi, M Nielsen, TP Fletcher, S Durrleman, S Sommer\
 Mathematical Foundations of Computational Anatomy (MFCA 2015), 173
 
 <br/>
 
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2014</h3>
----
-
 #### [IC‐P‐077: Hippocampal MRI texture is related to hippocampal glucose metabolism](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:vnF2_uLGgtgC) ####
 L Sørensen, C Igel, M Nielsen\
 Alzheimer's & Dementia 11 (7S_Part_1), P55-P56
-
-<br/>
-
-#### [The credit default swap option](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:WMtz-WDmgKQC) ####
-F Lindgren, MS Nielsen\
-MSc Advanced Economics and Finance Master’s Thesis, Copenhagen Business …
 
 <br/>
 
