@@ -5,7 +5,7 @@ excerpt: "FGA DIKU -- Research"
 sitemap: false
 permalink: /research/
 ---
-## What is Fine-grained Analysis?
+# What is Fine-grained Analysis?
 Fine-grained categorization refers to the problem of distinguishing between closely related entities, e.g., Monarch butterfly vs. Viceroy butterfly based on visual features, or Louisiana Waterthrush vs. Swainson’s Warbler based on auditory features. Analogous problems exist within medical data, language sentiment analysis, and remote sensing. Making progress in fine-grained categorization requires a combination of advanced ML research and coordination with – and respect for – human communities of knowledge.
 
 Based on mathematical and statistical modeling of visual representations and on large scale experimental work our collaboratory strives to make foundational contributions to basic research areas such as:

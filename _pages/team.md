@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Faculty
+### Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty_members %}
 
@@ -20,8 +20,8 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
-  <h4>{{ member.name }}</h4>
-  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <h5>{{ member.name }}</h5>
+  <h6> <a href="{{ member.website }}">Personal website</a> </h6>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -41,7 +41,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postdoctoral Researchers
+### Postdoctoral Researchers
 
 <div class="row">
 
@@ -50,8 +50,8 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
-  <h4>{{ member.name }}</h4>
-  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <h5>{{ member.name }}</h5>
+  <h6> <a href="{{ member.website }}">Personal website</a> </h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -59,7 +59,7 @@ permalink: /team/
 
 </div>
 
-## PhD Students
+### PhD Students
 
 <div class="row">
 
@@ -68,8 +68,8 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
-  <h4>{{ member.name }}</h4>
-  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <h5>{{ member.name }}</h5>
+  <h6> <a href="{{ member.website }}">Personal website</a> </h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -77,7 +77,7 @@ permalink: /team/
 
 </div>
 
-## Research Assistants
+### Research Assistants
 
 <div class="row">
 
@@ -85,8 +85,8 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
-  <h4>{{ member.name }}</h4>
-  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <h5>{{ member.name }}</h5>
+  <h6> <a href="{{ member.website }}">Personal website</a> </h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -96,7 +96,7 @@ permalink: /team/
 
 
 {% if site.data.vr_members.size > 0 %}
-## Visiting Researchers
+### Visiting Researchers
 
 <div class="row">
 
@@ -105,8 +105,8 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
-  <h4>{{ member.name }}</h4>
-  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
+  <h5>{{ member.name }}</h5>
+  <h6> <a href="{{ member.website }}">Personal website</a> </h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -116,7 +116,7 @@ permalink: /team/
 {% endif %}
 
 {% if site.data.alumni.size > 0 %}
-##  Alumni
+###  Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
