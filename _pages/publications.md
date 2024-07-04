@@ -12,18 +12,179 @@ permalink: /publications/
 
 
 
+<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2024</h3>
+---
+
+#### [Artificial intelligence for MRI stroke detection: a systematic review and meta-analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:SgM-ki2adj0C) ####
+JA Bojsen, MT Elhakim, O Graumann, D Gaist, M Nielsen, FSG Harbo, ...\
+Insights into Imaging 15 (1), 160
+
+<br/>
+
+#### [Early indicators of the impact of using AI in mammography screening for breast cancer](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ZYsTHYU9jrMC) ####
+AD Lauritzen, M Lillholm, E Lynge, M Nielsen, N Karssemeijer, I Vejborg\
+Radiology 311 (3), e232479
+
+<br/>
+
+#### [Population-wide evaluation of artificial intelligence and radiologist assessment of screening mammograms](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:DUFsPKDdMi0C) ####
+J Kühl, MT Elhakim, SW Stougaard, BSB Rasmussen, M Nielsen, O Gerke, ...\
+European Radiology 34 (6), 3935-3946
+
+<br/>
+
+#### [CORE-BEHRT: A Carefully Optimized and Rigorously Evaluated BEHRT](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:6pF0wJmtdfAC) ####
+M Odgaard, KV Klein, SM Thysen, E Jimenez-Solem, M Sillesen, ...\
+arXiv preprint arXiv:2404.15201
+
+<br/>
+
+#### [AI supported fetal echocardiography with quality assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:dMpQl7XwOw4C) ####
+CA Taksoee-Vester, K Mikolaj, Z Bashir, AN Christensen, OB Petersen, ...\
+Scientific Reports 14 (1), 5809
+
+<br/>
+
+#### [Integration of artificial intelligence (AI) in double-read population-based mammography screening: simulated replacement of one reader and beyond](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:mgoTDWlsYNUC) ####
+MT Elhakim, SW Stougaard, O Graumann, M Nielsen, O Gerke, ...\
+
+
+<br/>
+
+#### [Comparative analysis of multimodal biomarkers for amyloid-beta positivity detection in Alzheimer's disease cohorts](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:KqW5X_olkfQC) ####
+M Mehdipour Ghazi, P Selnes, S Timón-Reina, S Tecelão, S Ingala, ...\
+Frontiers in aging neuroscience 16, 1345417
+
+<br/>
+
+#### [Learning semantic image quality for fetal ultrasound from noisy ranking annotation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:oXKBmVzQOggC) ####
+M Lin, J Ambsdorf, EPF Sejer, Z Bashir, CK Wong, P Pegios, A Raheli, ...\
+arXiv preprint arXiv:2402.08294
+
+<br/>
+
+#### [Role of AI‐assisted automated cardiac biometrics in screening for fetal coarctation of aorta](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:UarirCmVI0EC) ####
+CA Taksoee‐Vester, K Mikolaj, OBB Petersen, NG Vejlstrup, ...\
+Ultrasound in Obstetrics & Gynecology
+
+<br/>
+
+#### [MDD-UNet: Domain Adaptation for Medical Image Segmentation with Theoretical Guarantees, a Proof of Concept](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:onKP9CxGSkIC) ####
+A Munk, A Ma, M Nielsen\
+Northern Lights Deep Learning Conference, 174-180
+
+<br/>
+
+#### [Heterogeneous Learning for Brain Lesion Segmentation, Detection, and Classification](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:koF6b02d8EEC) ####
+SN Llambias, M Nielsen, MM Ghazi\
+Northern Lights Deep Learning Conference 2024
+
+<br/>
+
+#### [Local Gamma Augmentation for Ischemic Stroke Lesion Segmentation on MRI](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:nroGzMJTTpEC) ####
+J Middleton, M Bauer, K Sheng, J Johansen, M Perslev, S Ingala, ...\
+Northern Lights Deep Learning Conference, 158-164
+
+<br/>
+
+#### [BRAIN COMMUNICATIONS](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ZqLB7dQ1iF4C) ####
+MV Sagar, NR Ferrer, MM Ghazi, KV Klein, E Jimenez-Solem, M Nielsen, ...\
+
+
+<br/>
+
+#### [HyperLeaf2024-A Hyperspectral Imaging Dataset for Classification and Regression of Wheat Leaves](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:wlzmIqt2EaEC) ####
+WM Laprade, P Pieta, S Kutuzova, JC Westergaard, M Nielsen, ...\
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …
+
+<br/>
+
+#### [COVID-19-associated cerebral microbleeds in the general population](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:RVqaWcrwK10C) ####
+MV Sagar, NR Ferrer, M Mehdipour Ghazi, KV Klein, E Jimenez-Solem, ...\
+Brain communications 6 (3), fcae127
+
+<br/>
+
+
+
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2023</h3>
 ---
 
-#### [Robust Identification of White Matter Hyperintensities in Uncontrolled Settings Using Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:37Fl7vPTsUIC) ####
-A Schiavone, SN Llambias, J Johansen, S Ingala, A Pai, M Nielsen, ...\
-Medical Imaging with Deep Learning, short paper track
+#### [An assessment of the value of deep neural networks in genetic risk prediction for surgically relevant outcomes](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:5bfplxN71z4C) ####
+MA Christensen, A Sigurdsson, A Bonde, S Rasmussen, SR Ostrowski, ...\
+medRxiv, 2024.01. 09.23297913
+
+<br/>
+
+#### [Breast cancer detection accuracy of AI in an entire screening population: a retrospective, multicentre study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:QeguYG95ZbAC) ####
+MT Elhakim, SW Stougaard, O Graumann, M Nielsen, K Lång, O Gerke, ...\
+Cancer Imaging 23 (1), 127
+
+<br/>
+
+#### [Diagnostic test accuracy study of a commercially available deep learning algorithm for ischemic lesion detection on brain MRIs in suspected stroke patients from a non …](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:3x-KLxxGyuUC) ####
+CH Krag, FC Müller, KL Gandrup, H Raaschou, MB Andersen, ...\
+European Journal of Radiology 168, 111126
+
+<br/>
+
+#### [Active Transfer Learning for 3D Hippocampus Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:3_f9JqYsqVQC) ####
+J Wu, Z Kang, SN Llambias, MM Ghazi, M Nielsen\
+Workshop on Medical Image Learning with Limited and Noisy Data, 224-234
+
+<br/>
+
+#### [Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:FQ36aI_S1AEC) ####
+P Pegios, EPF Sejer, M Lin, Z Bashir, MBS Svendsen, M Nielsen, ...\
+International Workshop on Advances in Simplifying Medical Ultrasound, 57-67
+
+<br/>
+
+#### [Can AI replace first reader in double reading? A large-scale, Danish multicentre study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Oj-SLI0tZTcC) ####
+MT Elhakim, SW Stougaard, O Graumann, O Gerke, M Nielsen, LB Larsen, ...\
+
+
+<br/>
+
+#### [How accurate is AI for cancer detection in an entire mammography screening population?](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:IExZWSxeYXUC) ####
+MT Elhakim, JL Kühl, SW Stougaard, BS Rasmussen, O Gerke, M Nielsen, ...\
+
+
+<br/>
+
+#### [Robust cross-vendor mammographic texture models using augmentation-based domain adaptation for long-term breast cancer risk](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:-vzq6BoH5oUC) ####
+AD Lauritzen, MC von Euler-Chelpin, E Lynge, I Vejborg, M Nielsen, ...\
+Journal of Medical Imaging 10 (5), 054003-054003
+
+<br/>
+
+#### [Assessing breast cancer risk by combining AI for lesion detection and mammographic texture](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:KsTgnNRry18C) ####
+AD Lauritzen, MC von Euler-Chelpin, E Lynge, I Vejborg, M Nielsen, ...\
+Radiology 308 (2), e230227
+
+<br/>
+
+#### [An improved medical scan protocol for in-scanner patient data acquisition analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:kvJssbFybhEC) ####
+M Nielsen, RM Lauritzen, ASU Pai\
+US Patent App. 17/621,668
+
+<br/>
+
+#### [Data Augmentation-Based Unsupervised Domain Adaptation In Medical Imaging](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:PZE8UkGerEcC) ####
+SN Llambias, M Nielsen, MM Ghazi\
+arXiv preprint arXiv:2308.04395
 
 <br/>
 
 #### [An Analysis of Spatial-Spectral Dependence in Hyperspectral Autoencoders](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:QtA78RmWg5MC) ####
 WM Laprade, JC Westergaard, J Nielsen, M Nielsen, AB Dahl\
 Scandinavian Conference on Image Analysis, 191-202
+
+<br/>
+
+#### [Deep learning-based assessment of cerebral microbleeds in COVID-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cww_0JKUTDwC) ####
+NR Ferrer, MV Sagar, KV Klein, C Kruuse, M Nielsen, MM Ghazi\
+2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI), 1-4
 
 <br/>
 
@@ -51,9 +212,9 @@ Expert Systems with Applications 212, 118738
 
 <br/>
 
-#### [Deep Learning-Based Assessment of Cerebral Microbleeds in COVID-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cww_0JKUTDwC) ####
-NR Ferrer, MV Sagar, KV Klein, C Kruuse, M Nielsen, MM Ghazi\
-arXiv preprint arXiv:2301.09322
+#### [Taxometer: Improving taxonomic classification of metagenomics contigs](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:6Zm5LS9gQ5UC) ####
+S Kutuzova, M Nielsen, P Piera Lindez, J Nybo Nissen, S Rasmussen\
+bioRxiv, 2023.11. 23.568413
 
 <br/>
 
@@ -62,21 +223,21 @@ arXiv preprint arXiv:2301.09322
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2022</h3>
 ---
 
+#### [Robust Identification of White Matter Hyperintensities in Uncontrolled Settings Using Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:37Fl7vPTsUIC) ####
+A Schiavone, SN Llambias, J Johansen, S Ingala, A Pai, M Nielsen, ...\
+Medical Imaging with Deep Learning, short paper track
+
+<br/>
+
 #### [Partial feedback online transfer learning with multi-source domains](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:j2GSQqY3pL0C) ####
 Z Kang, M Nielsen, B Yang, MM Ghazi\
 Information Fusion 89, 29-40
 
 <br/>
 
-#### [Robust Cross-vendor Mammographic Texture Models Using Augmentation-based Domain Adaptation for Long-term Breast Cancer Risk](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:-vzq6BoH5oUC) ####
-AD Lauritzen, MC von Euler-Chelpin, E Lynge, I Vejborg, M Nielsen, ...\
-arXiv preprint arXiv:2212.13439
-
-<br/>
-
 #### [Machine learning and deep learning applications in microbiome research](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cOfwuRB03ygC) ####
 R Hernández Medina, S Kutuzova, KN Nielsen, J Johansen, LH Hansen, ...\
-ISME Communications 2 (1), 98
+ISME communications 2 (1), 98
 
 <br/>
 
@@ -86,7 +247,7 @@ MICCAI Workshop on Medical Applications with Disentanglements, 49-58
 
 <br/>
 
-#### [FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:-38epGy1wY0C) ####
+#### [FAST-AID Brain: Fast and accurate segmentation tool using artificial intelligence developed for brain](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:-38epGy1wY0C) ####
 MM Ghazi, M Nielsen\
 arXiv preprint arXiv:2208.14360
 
@@ -98,16 +259,16 @@ Radiology 304 (1), 41-49
 
 <br/>
 
-#### [CARRNN: A Continuous Autoregressive Recurrent Neural Network for Deep Representation Learning From Sporadic Temporal Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:hEXC_dOfxuUC) ####
-MM Ghazi, L Sørensen, S Ourselin, M Nielsen\
-IEEE Transactions on Neural Networks and Learning Systems
-
-<br/>
-
 
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2021</h3>
 ---
+
+#### [CARRNN: A Continuous Autoregressive Recurrent Neural Network for Deep Representation Learning From Sporadic Temporal Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:hEXC_dOfxuUC) ####
+MM Ghazi, L Sørensen, S Ourselin, M Nielsen\
+IEEE Transactions on Neural Networks and Learning Systems 35 (1), 792-802
+
+<br/>
 
 #### [A buffered online transfer learning algorithm with multi-layer network](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Ul_CLA4dPeMC) ####
 Z Kang, B Yang, M Nielsen, L Deng, S Yang\
@@ -147,15 +308,14 @@ Springer Nature
 
 #### [Extension of plant phenotypes by the foliar microbiome](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:e3CVSTJ63dQC) ####
 CV Hawkes, R Kjøller, JM Raaijmakers, L Riber, S Christensen, ...\
-Annual Review of Plant Biology 72, 823-846
+Annual Review of Plant Biology 72 (1), 823-846
 
 <br/>
 
-#### [Developing Machine Learning Models for Predicting Intensive Care Unit Resource Use During the COVID-19 Pandemic: Experiences from a Bi-Regional Health Care System Covering 2.5 …](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:I-2NeQpV75MC) ####
-SS Lorenzen, M Nielsen, E Jimenez-Solem, TS Petersen, A Perner, ...\
 
 
-<br/>
+<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2020</h3>
+---
 
 #### [Lesion-wise evaluation for effective performance monitoring of small object segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:HKviVsUxM5wC) ####
 I Groothuis, CH Sudre, S Ingala, J Barnes, JD Gispert, L Sørensen, A Pai, ...\
@@ -165,14 +325,9 @@ Medical Imaging 2021: Image Processing 11596, 35-42
 
 #### [Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ZysSsiWj_g4C) ####
 E Jimenez-Solem, TS Petersen, C Hansen, C Hansen, C Lioma, C Igel, ...\
-Scientific reports 11 (1), 1-12
+Scientific reports 11 (1), 3246
 
 <br/>
-
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2020</h3>
----
 
 #### [Multimodal variational autoencoders for semi-supervised learning: In defense of product-of-experts](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:VjBpw8Hezy4C) ####
 S Kutuzova, O Krause, D McCloskey, M Nielsen, C Igel\
@@ -182,13 +337,7 @@ arXiv preprint arXiv:2101.07240
 
 #### [Robust parametric modeling of Alzheimer’s disease progression](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:VnuxuLaQPLMC) ####
 MM Ghazi, M Nielsen, A Pai, M Modat, MJ Cardoso, S Ourselin, ...\
-NeuroImage 225, 117460
-
-<br/>
-
-#### [Developing Machine Learning Models for Predicting Intensive Care Unit Resource Use During the COVID-19 Pandemic: Experiences from a Bi-Regional Health Care System Covering 2.5 …](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:J4E9jCG1tHUC) ####
-S Sloth Lorenzen, M Nielsen, E Jimenez-Solem, T Studsgaard Petersen, ...\
-Available at SSRN 3796914
+Neuroimage 225, 117460
 
 <br/>
 
@@ -206,7 +355,13 @@ Medical image analysis 66, 101800
 
 #### [Kunstig intelligens til cancerdiagnostik i brystkraeftscreening](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:_9Xh93LWpsYC) ####
 MT Elhakim, O Graumann, LB Larsen, M Nielsen, BS Rasmussen\
-Ugeskr Laeger 182 (16), 1488-1492
+Ugeskr Laeger 182 (16), 1488-92
+
+<br/>
+
+#### [Artificial intelligence for cancer detection in breast cancer screening](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:I2jIoRS3jIgC) ####
+MT Elhakim, O Graumann, LB Larsen, M Nielsen, BS Rasmussen\
+Ugeskrift for Laeger 182 (34), V06200423-V06200423
 
 <br/>
 
@@ -216,16 +371,16 @@ MM Ghazi, L Sørensen, A Pai, J Cardoso, M Modat, S Ourselin, M Nielsen\
 
 <br/>
 
+
+
+<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2019</h3>
+---
+
 #### [Inflammatory pathway analytes predicting rapid cognitive decline in MCI stage of Alzheimer’s disease](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:E8ajGqO0XoUC) ####
 JA Pillai, J Bena, G Bebek, LM Bekris, A Bonner‐Jackson, L Kou, A Pai, ...\
 Annals of Clinical and Translational Neurology 7 (7), 1225-1239
 
 <br/>
-
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2019</h3>
----
 
 #### [Impact of adding breast density to breast cancer risk models: a systematic review](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:It0W0vAlS5QC) ####
 BM Vilmun, I Vejborg, E Lynge, M Lillholm, M Nielsen, MB Nielsen, ...\
@@ -305,20 +460,14 @@ Medical image analysis 53, 39-46
 
 <br/>
 
-#### [PADDIT: probabilistic augmentation of data using diffeomorphic image transformation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Oo1CbQkBAzEC) ####
-M Orbes-Arteaga, L Sørensen, J Cardoso, M Modat, S Ourselin, ...\
-Medical Imaging 2019: Image Processing 10949, 197-202
-
-<br/>
-
 
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2018</h3>
 ---
 
-#### [AI vil give store samfundsgevinster](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:8RAEygVn5_EC) ####
-PB Brockhoff, M Nielsen, J Damsgaard\
-Børsen, 5
+#### [PADDIT: probabilistic augmentation of data using diffeomorphic image transformation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Oo1CbQkBAzEC) ####
+M Orbes-Arteaga, L Sørensen, J Cardoso, M Modat, S Ourselin, ...\
+Medical Imaging 2019: Image Processing 10949, 197-202
 
 <br/>
 
@@ -340,15 +489,15 @@ OR 2.0 Context-Aware Operating Theaters and Machine Learning in Clinical …
 
 <br/>
 
-#### [Increasing accuracy of optimal surfaces using min-marginal energies](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:inmFHauC9wsC) ####
-J Petersen, AM Arias-Lorza, R Selvan, D Bos, A van der Lugt, ...\
-IEEE transactions on medical imaging 38 (7), 1559-1568
+#### [AI vil give store samfundsgevinster](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:8RAEygVn5_EC) ####
+PB Brockhoff, M Nielsen, J Damsgaard\
+Boersen, 5
 
 <br/>
 
-#### [The combined effect of mammographic texture and density on breast cancer risk: a cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:DquSII9TDu4C) ####
-JOP Wanders, CH van Gils, N Karssemeijer, K Holland, M Kallenberg, ...\
-Breast Cancer Research 20, 1-10
+#### [Increasing accuracy of optimal surfaces using min-marginal energies](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:inmFHauC9wsC) ####
+J Petersen, AM Arias-Lorza, R Selvan, D Bos, A van der Lugt, ...\
+IEEE transactions on medical imaging 38 (7), 1559-1568
 
 <br/>
 
@@ -356,6 +505,12 @@ Breast Cancer Research 20, 1-10
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2017</h3>
 ---
+
+#### [The combined effect of mammographic texture and density on breast cancer risk: a cohort study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:DquSII9TDu4C) ####
+JOP Wanders, CH van Gils, N Karssemeijer, K Holland, M Kallenberg, ...\
+Breast Cancer Research 20, 1-10
+
+<br/>
 
 #### [Screening mammography: benefit of double reading by breast density](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:d4tt_xEv1X8C) ####
 M Euler-Chelpin, M Lillholm, G Napolitano, I Vejborg, M Nielsen, E Lynge\
@@ -399,9 +554,9 @@ Springer
 
 <br/>
 
-#### [Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:rpSJNIKeXWsC) ####
-JM Cardoso, T Arbel, E Ferrante, X Pennec, S Parisot, S Joshi, ...\
-
+#### [Computer analysis of mammograms](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:0ngZmJvimKcC) ####
+M Kallenberg, M Nielsen, M Lillholm\
+US Patent App. 15/054,839
 
 <br/>
 
@@ -409,12 +564,6 @@ JM Cardoso, T Arbel, E Ferrante, X Pennec, S Parisot, S Joshi, ...\
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2016</h3>
 ---
-
-#### [Computer analysis of mammograms](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:0ngZmJvimKcC) ####
-M Kallenberg, M Nielsen, M Lillholm\
-US Patent App. 15/054,839
-
-<br/>
 
 #### [Risk stratification of women with false-positive test results in mammography screening based on mammographic morphology and density: a case control study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ukw-9cB-YDkC) ####
 RR Winkel, M von Euler-Chelpin, E Lynge, P Diao, M Lillholm, ...\
@@ -425,6 +574,18 @@ Cancer epidemiology 49, 53-60
 #### [[P4–225]: HIPPOCAMPAL TEXTURE PREDICTS RATE OF COGNITIVE DECLINE IN MILD COGNITIVE IMPAIRMENT](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:SrKkpNFED5gC) ####
 A Pai, JA Pillai, L Sørensen, S Darkner, S Sommer, M Nielsen, ...\
 Alzheimer's & Dementia 13 (7S_Part_28), P1356-P1356
+
+<br/>
+
+#### [Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:rpSJNIKeXWsC) ####
+JM Cardoso, T Arbel, E Ferrante, X Pennec, S Parisot, S Joshi, ...\
+
+
+<br/>
+
+#### [Quantitative evaluation of peptide analogue distribution in mouse tissue using 3D computer modelling](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:NXYAu82O0W8C) ####
+CB Jensen\
+Technical University of Denmark
 
 <br/>
 
@@ -454,7 +615,7 @@ Medical Computer Vision and Bayesian and Graphical Models for Biomedical …
 
 #### [Mammographic density and structural features can individually and jointly contribute to breast cancer risk assessment in mammography screening: a case–control study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:NtCmTCuxid4C) ####
 RR Winkel, M von Euler-Chelpin, M Nielsen, K Petersen, M Lillholm, ...\
-BMC cancer 16 (1), 1-12
+BMC cancer 16, 1-12
 
 <br/>
 
@@ -467,166 +628,6 @@ L Sørensen, M Nielsen, I Christian\
 #### [IC‐P‐146: MCI Trial Enrichment Using MRI Hippocampus Texture](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:q0uBw5dMOAkC) ####
 L Sørensen, C Igel, M Nielsen\
 Alzheimer's & Dementia 12, P108-P109
-
-<br/>
-
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2015</h3>
----
-
-#### [O4‐09‐06: DO DEMENTIA BIOMARKERS HAVE A SIGMOID TRAJECTORY? INSIGHTS FROM NON‐LINEAR MIXED EFFECTS MODELING](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:as0KMg8qHbkC) ####
-A Pai, S Sommer, LL Raket, L Sørensen, M Nielsen\
-Alzheimer's & Dementia 12, P356-P356
-
-<br/>
-
-#### [Training shortest-path tractography: Automatic learning of spatial priors](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:lbI08cpqPnQC) ####
-N Kasenburg, M Liptrot, NL Reislev, SN Ørting, M Nielsen, E Garde, ...\
-NeuroImage 130, 63-76
-
-<br/>
-
-#### [Supervised hub-detection for brain connectivity](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:h168fVGZblEC) ####
-N Kasenburg, M Liptrot, NL Reislev, E Garde, M Nielsen, A Feragen\
-Medical Imaging 2016: Image Processing 9784, 56-64
-
-<br/>
-
-#### [Combining the boundary shift integral and tensor-based morphometry for brain atrophy estimation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:E7VqQtBCVmcC) ####
-M Michalkiewicz, A Pai, KK Leung, S Sommer, S Darkner, L Sørensen, ...\
-Medical Imaging 2016: Image Processing 9784, 37-42
-
-<br/>
-
-#### [Early detection of Alzheimer's disease using M RI hippocampal texture](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:9NZAP19TdFAC) ####
-L Sørensen, C Igel, N Liv Hansen, M Osler, M Lauritzen, E Rostrup, ...\
-Human brain mapping 37 (3), 1148-1161
-
-<br/>
-
-#### [Unsupervised deep learning applied to breast density segmentation and mammographic risk scoring](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:QaSi33NTfwYC) ####
-M Kallenberg, K Petersen, M Nielsen, AY Ng, P Diao, C Igel, CM Vachon, ...\
-IEEE transactions on medical imaging 35 (5), 1322-1331
-
-<br/>
-
-#### [Learning Density Independent Texture Features](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:v_tt_AnqfNMC) ####
-M Kallenberg, M Nielsen, K Holland, N Karssemeijer, C Igel, M Lillholm\
-Breast Imaging: 13th International Workshop, IWDM 2016, Malmö, Sweden, June …
-
-<br/>
-
-#### [Deformation-based atrophy computation by surface propagation and its application to Alzheimer’s disease](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:JH5k92_tO-AC) ####
-A Pai, J Sporring, S Darkner, EB Dam, M Lillholm, D Jørgensen, J Oh, ...\
-Journal of Medical Imaging 3 (1), 014005-014005
-
-<br/>
-
-#### [Kernel bundle diffeomorphic image registration using stationary velocity fields and wendland basis functions](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:In6cVmBjs0IC) ####
-A Pai, S Sommer, L Sørensen, S Darkner, J Sporring, M Nielsen\
-IEEE transactions on medical imaging 35 (6), 1369-1380
-
-<br/>
-
-#### [Inter-observer agreement according to three methods of evaluating mammographic density and parenchymal pattern in a case control study: impact on relative risk of breast cancer](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:sfnaS5RM6jYC) ####
-RR Winkel, M von Euler-Chelpin, M Nielsen, P Diao, MB Nielsen, ...\
-BMC cancer 15, 1-14
-
-<br/>
-
-#### [Assessing breast cancer masking risk with automated texture analysis in full field digital mammography](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:U0iAMwwPxtsC) ####
-M Kallenberg, M Lilholm, P Diao, K Petersen, K Holland, N Karssemeijer, ...\
-Annual Meeting of the Radiological Society of North America
-
-<br/>
-
-#### [Relevance sampling](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:orDZ08hpP44C) ####
-M Nielsen, B Markussen, M Loog\
-EIGHTH WORKSHOP ON INFORMATION THEORETIC METHODS IN SCIENCE AND ENGINEERING, 39
-
-<br/>
-
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2014</h3>
----
-
-#### [Proceedings of the fifth international workshop on Mathematical Foundations of Computational Anatomy (MFCA 2015)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:rbm3iO8VlycC) ####
-X Pennec, S Joshi, M Nielsen, TP Fletcher, S Durrleman, S Sommer\
-Mathematical Foundations of Computational Anatomy (MFCA 2015), 173
-
-<br/>
-
-#### [IC‐P‐077: Hippocampal MRI texture is related to hippocampal glucose metabolism](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:vnF2_uLGgtgC) ####
-L Sørensen, C Igel, M Nielsen\
-Alzheimer's & Dementia 11 (7S_Part_1), P55-P56
-
-<br/>
-
-#### [Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:4Yq6kJLCcecC) ####
-EE Bron, M Smits, WM Van Der Flier, H Vrenken, F Barkhof, P Scheltens, ...\
-NeuroImage 111, 562-579
-
-<br/>
-
-#### [Diffeomorphic image registration with automatic time-step adjustment](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:PuOEWVtPfzwC) ####
-A Pai, S Klein, S Sommer, S Darkner, J Sporring, M Nielsen\
-2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI), 1085-1088
-
-<br/>
-
-#### [Automatic segmentation of high-and low-field knee MRIs using knee image quantification with data from the osteoarthritis initiative](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:4e5Qn2KL_jwC) ####
-EB Dam, M Lillholm, J Marques, M Nielsen\
-Journal of Medical imaging 2 (2), 024001-024001
-
-<br/>
-
-#### [Image registration using stationary velocity fields parameterized by norm-minimizing wendland kernel](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:-yGd096yOn8C) ####
-A Pai, S Sommer, L Sørensen, S Darkner, J Sporring, M Nielsen\
-Medical Imaging 2015: Image Processing 9413, 838-844
-
-<br/>
-
-#### [Inter-observer reproducibility according to three methods of evaluating mammographic density and parenchymal pattern: Impact on risk prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:gV6rEsy15s0C) ####
-RR Winkel, M von Euler-Chelpin, M Nielsen, MB Nielsen, W Uldall, ...\
-European Congress of Radiology-ECR 2015
-
-<br/>
-
-#### [Improved Alzheimer’s disease diagnostic performance using structural MRI: validation of the MRI combination biomarker that won the CADDementia challenge](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ifOnle78iJkC) ####
-L Sørensen, M Lillholm, A Pai, I Balas, C Anker, C Igel, M Nielsen\
-European Congress of Radiology-ECR 2015
-
-<br/>
-
-#### [Locally orderless registration for diffusion weighted images](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Vr2j17o0sqMC) ####
-HG Jensen, F Lauze, M Nielsen, S Darkner\
-Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015 …
-
-<br/>
-
-#### [Computer Based Method for Determining the Size of an Object in an Image](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:jmjb1lOE9QIC) ####
-A Pai, L Sorensen, EB Dam, M Lillholm, M Nielsen\
-US Patent App. 13/909,666
-
-<br/>
-
-#### [Brain region’s relative proximity as marker for Alzheimer’s disease based on structural MRI](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:L_l9e5I586QC) ####
-L Lillemark, L Sørensen, A Pai, EB Dam, M Nielsen\
-BMC medical imaging 14 (1), 1-12
-
-<br/>
-
-#### [A method to determine the mammographic regions that show early changes due to the development of breast cancer](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:4aZ_i-5WJEQC) ####
-G Karemore, M Nielsen, N Karssemeijer, SS Brandt\
-Physics in Medicine & Biology 59 (22), 6759
-
-<br/>
-
-#### [Effect of inspiration on airway dimensions measured in maximal inspiration CT images of subjects without airflow limitation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:SAZ1SQo2q1kC) ####
-J Petersen, MMW Wille, LL Rakêt, A Feragen, JH Pedersen, M Nielsen, ...\
-European radiology 24, 2319-2325
 
 <br/>
 
