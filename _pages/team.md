@@ -47,12 +47,12 @@ This page currentely contains the group members of [belongielab.org/](https://ww
 
 <div class="row">
 
-{% for member in site.data.postdoc_members %}
+{% assign sorted_postdoc_members = site.data.postdoc_members | sort: 'name' %}
+{% for member in sorted_postdoc_members %}
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
 </div>
@@ -65,7 +65,8 @@ This page currentely contains the group members of [belongielab.org/](https://ww
 
 <div class="row">
 
-{% for member in site.data.phd_members %}
+{% assign sorted_phd_members = site.data.phd_members | sort: 'name' %}
+{% for member in sorted_phd_members %}
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
@@ -82,7 +83,8 @@ This page currentely contains the group members of [belongielab.org/](https://ww
 
 <div class="row">
 
-{% for member in site.data.ra_members %}
+{% assign sorted_ra_members = site.data.ra_members | sort: 'name' %}
+{% for member in sorted_ra_members %}
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
