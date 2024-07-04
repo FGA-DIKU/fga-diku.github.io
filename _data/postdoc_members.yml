@@ -1,12 +1,13 @@
-- name: Sagie Benaim
-  photo: sagie.jpg
-  website: https://sagiebenaim.github.io/
-  info: x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+- name: Mostafa Mehdipour Ghazi
+  photo: mostafa-ghazi.jpg
+  website: https://di.ku.dk/english/staff/?pure=en/persons/595060
+  # Below can be used to add additional info
+  #info: x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
   
-- name: Nico Lang
-  photo: nico.jpg
-  website: https://langnico.github.io/
+- name: Stefano Cerri
+  photo: stefano-cerri.jpg
+  website: https://www.stefanocerri.com/
 
-- name: Stella Frank
-  photo: stella.jpg
-  website: https://scfrank.github.io/
+- name: Svetlana Kutuzova
+  photo: svetlana-kutuzova.jpeg
+  website: https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fsvetlana-kutuzova(54842aab-444c-48de-b2f5-5649ed229c4d).html

@@ -1,27 +1,47 @@
-- name: Guandao Yang
-  photo: guandao.jpg
-  website: https://www.guandaoyang.com/
+- name: Asbjørn Munk
+  photo: asbjørn-munk.jpg
+  website: https://asbn.dk/
 
-- name: Menglin Jia
-  photo: menglin.jpg
-  website: https://kmnp.github.io/
+- name: Jakob Ambsdorf
+  photo: jakob-ambsdorf.jpeg
+  website: https://di.ku.dk/english/staff/?pure=en/persons/770638
 
-- name: Rui Qian
-  photo: rui.jpg
-  website: https://rui1996.github.io/
+- name: Julia Machnio
+  photo: julia-machnio.jpeg
+  website: https://di.ku.dk/english/staff/vip/researchers_p1ai/?pure=en/persons/803806
 
-- name: Katie Luo
-  photo: katie.jpg
-  website: https://www.cs.cornell.edu/~katieluo/
+- name: Kiril Klein
+  photo: kiril-klein.jpeg
+  website: https://di.ku.dk/english/staff/?pure=en/persons/693923
 
-- name: Vésteinn Snæbjarnarson
-  photo: vesteinn.jpg
-  website: https://vesteinn.is
+- name: Marcus Teller
+  photo: marcus-teller.jpeg
+  website: https://di.ku.dk/Ansatte/forskere/?pure=da/persons/600178
 
-- name: Peter Ebert Christensen
-  photo: peter.jpg
-  website: https://captaine.github.io/
+- name: Maria Elkjær Montgomery
+  photo: maria-elkjær-montgomery.jpeg
+  website: https://di.ku.dk/english/staff/
 
-- name: Srishti Yadav
-  photo: srishti.jpg
-  website: https://srishti.dev/
+- name: Mikkel Odgaard
+  photo: mikkel-odgaard.jpeg
+  website: https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fmikkel-fruelund-odgaard(a3b9b03b-2090-4a02-9057-3d9c9a9af490).html
+
+# - name: Jacob Johansen
+#   photo: jacob-johansen.jpeg
+#   website: https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fjacob-johansen(aa76b9f0-8b0b-4c17-a001-84655acae81b).html
+
+# - name: Jon Middleton
+#   photo: jon-middleton.jpeg
+#   website: https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fjon-anthony-middleton(01e3fcf4-8d11-4817-888b-50f6e776d892).html
+
+- name: Zahra Sobhaninia
+  photo: zahra-sobhaninia.jpeg
+  website: https://di.ku.dk/english/staff/?pure=en/persons/798281
+
+- name: Stephan Sloth Lorenzen
+  photo: stephan-sloth-lorenzen.jpg
+  website: https://stephanlorenzen.dk/
+
+# - name: William Laprade
+#   photo: william-laprade.jpeg
+#   website: https://www.dtu.dk/person/william-michael-laprade?id=154246&entity=profile
