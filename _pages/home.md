@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 The contents of this website is in many places still the content of [belongielab.org/](https://www.belongielab.org/).
-
 We are a part of the Fine-Grained Analysis (FGA) collaboratory at [the Pioneer Centre for AI](https://www.aicentre.dk/) associated with the computer science department at the University of Copenhagen ([DIKU](https://di.ku.dk/english/)).  
 Welcome! 
 
