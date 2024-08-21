@@ -358,7 +358,7 @@ $container-lg:                 $container-large-desktop !default;
 //##
 
 // Basics of a navbar
-$navbar-height:                    50px !default;
+$navbar-height:                    60px !default;
 $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
@@ -367,7 +367,7 @@ $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
 $navbar-default-bg:                #fffdef !default;
-$navbar-default-border:            #ebecf0 !default;
+$navbar-default-border:            #ffec4b !default;
 
 // Navbar links
 $navbar-default-link-color:                $gray-light !default;
@@ -764,7 +764,7 @@ $thumbnail-caption-padding:   9px !default;
 // $well-bg:                     #ebecf0 !default;
 // $well-border:                 #fffdef !default;
 $well-bg:                     #fffdef !default;
-$well-border:                 #ebecf0 !default;
+$well-border:                 #ffec4b !default;
 
 
 //== Badges
