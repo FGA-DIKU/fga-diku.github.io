@@ -1,7 +1,7 @@
 ---
-title: "FGA DIKU - Publications"
+title: "FiGra - Publications"
 layout: gridlay
-excerpt: "FGA DIKU -- Publications."
+excerpt: "FiGra -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -14,6 +14,54 @@ permalink: /publications/
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2024</h3>
 ---
+
+#### [Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:qbqt7gslDFUC) ####
+MDS Olsen, J Ambsdorf, M Lin, C Taksøe-Vester, MBS Svendsen, ...\
+arXiv preprint arXiv:2408.03654
+
+<br/>
+
+#### [Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:tFzHCjejgA0C) ####
+M Ditlev Sjøgren Olsen, J Ambsdorf, M Lin, C Taksøe-Vester, ...\
+arXiv e-prints, arXiv: 2408.03654
+
+<br/>
+
+#### [AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Yw6v6SrDvuUC) ####
+A Munk, J Ambsdorf, S Llambias, M Nielsen\
+arXiv preprint arXiv:2408.00640
+
+<br/>
+
+#### [Yucca: A Deep Learning Framework For Medical Image Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:w0odbtu79TwC) ####
+SN Llambias, J Machnio, A Munk, J Ambsdorf, M Nielsen, MM Ghazi\
+arXiv preprint arXiv:2407.19888
+
+<br/>
+
+#### [Introduction of one-view tomosynthesis in population-based mammography screening: Impact on detection rate, interval cancer rate and false-positive rate](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:e0LTWoPxLYMC) ####
+BM Vilmun, G Napolitano, M Lillholm, RR Winkel, E Lynge, M Nielsen, ...\
+Journal of Medical Screening, 09691413241262259
+
+<br/>
+
+#### [An assessment of the value of deep neural networks in genetic risk prediction for surgically relevant outcomes](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:5bfplxN71z4C) ####
+MA Christensen, A Sigurdsson, A Bonde, S Rasmussen, SR Ostrowski, ...\
+Plos one 19 (7), e0294368
+
+<br/>
+
+#### [Yucca: A Deep Learning Framework For Medical Image Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:k8to_Y4Q4_EC) ####
+S Nørgaard Llambias, J Machnio, A Munk, J Ambsdorf, M Nielsen, ...\
+arXiv e-prints, arXiv: 2407.19888
+
+<br/>
+
+#### [Role of artificial-intelligence-assisted automated cardiac biometrics in prenatal screening for coarctation of aorta](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Mx5hWS9ctUkC) ####
+CA Taksøe-Vester, K Mikolaj, OBB Petersen, NG Vejlstrup, ...\
+Ultrasound in obstetrics & gynecology: the official journal of the …
+
+<br/>
 
 #### [Artificial intelligence for MRI stroke detection: a systematic review and meta-analysis](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:SgM-ki2adj0C) ####
 JA Bojsen, MT Elhakim, O Graumann, D Gaist, M Nielsen, FSG Harbo, ...\
@@ -99,20 +147,14 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …
 
 <br/>
 
-#### [COVID-19-associated cerebral microbleeds in the general population](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:RVqaWcrwK10C) ####
-MV Sagar, NR Ferrer, M Mehdipour Ghazi, KV Klein, E Jimenez-Solem, ...\
-Brain communications 6 (3), fcae127
-
-<br/>
-
 
 
 <h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2023</h3>
 ---
 
-#### [An assessment of the value of deep neural networks in genetic risk prediction for surgically relevant outcomes](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:5bfplxN71z4C) ####
-MA Christensen, A Sigurdsson, A Bonde, S Rasmussen, SR Ostrowski, ...\
-medRxiv, 2024.01. 09.23297913
+#### [COVID-19-associated cerebral microbleeds in the general population](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:RVqaWcrwK10C) ####
+MV Sagar, NR Ferrer, M Mehdipour Ghazi, KV Klein, E Jimenez-Solem, ...\
+Brain communications 6 (3), fcae127
 
 <br/>
 
@@ -259,10 +301,11 @@ Radiology 304 (1), 41-49
 
 <br/>
 
+#### [Semantic Segmentation Techniques-Applications and Challenges: Investigating semantic segmentation techniques for pixel-level labeling of objects and scenes in images and videos](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:6IBXqrN-DEwC) ####
+M Nielsen\
+Australian Journal of Machine Learning Research & Applications 2 (2), 108-117
 
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2021</h3>
----
+<br/>
 
 #### [CARRNN: A Continuous Autoregressive Recurrent Neural Network for Deep Representation Learning From Sporadic Temporal Data](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:hEXC_dOfxuUC) ####
 MM Ghazi, L Sørensen, S Ourselin, M Nielsen\
@@ -270,9 +313,20 @@ IEEE Transactions on Neural Networks and Learning Systems 35 (1), 792-802
 
 <br/>
 
+
+
+<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2021</h3>
+---
+
 #### [A buffered online transfer learning algorithm with multi-layer network](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:Ul_CLA4dPeMC) ####
 Z Kang, B Yang, M Nielsen, L Deng, S Yang\
 Neurocomputing 488, 581-597
+
+<br/>
+
+#### [Extraction of a bias field invariant biomarker from an image](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cRMvf6lLvU8C) ####
+L Sørensen, M Nielsen, C Igel\
+US Patent 11,341,691
 
 <br/>
 
@@ -560,11 +614,6 @@ US Patent App. 15/054,839
 
 <br/>
 
-
-
-<h3 style="padding-bottom: 0px;margin-bottom: 0; text-align: center;">2016</h3>
----
-
 #### [Risk stratification of women with false-positive test results in mammography screening based on mammographic morphology and density: a case control study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:ukw-9cB-YDkC) ####
 RR Winkel, M von Euler-Chelpin, E Lynge, P Diao, M Lillholm, ...\
 Cancer epidemiology 49, 53-60
@@ -574,60 +623,6 @@ Cancer epidemiology 49, 53-60
 #### [[P4–225]: HIPPOCAMPAL TEXTURE PREDICTS RATE OF COGNITIVE DECLINE IN MILD COGNITIVE IMPAIRMENT](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:SrKkpNFED5gC) ####
 A Pai, JA Pillai, L Sørensen, S Darkner, S Sommer, M Nielsen, ...\
 Alzheimer's & Dementia 13 (7S_Part_28), P1356-P1356
-
-<br/>
-
-#### [Graphs in Biomedical Image Analysis, Computational Anatomy and Imaging Genetics](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:rpSJNIKeXWsC) ####
-JM Cardoso, T Arbel, E Ferrante, X Pennec, S Parisot, S Joshi, ...\
-
-
-<br/>
-
-#### [Quantitative evaluation of peptide analogue distribution in mouse tissue using 3D computer modelling](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:NXYAu82O0W8C) ####
-CB Jensen\
-Technical University of Denmark
-
-<br/>
-
-#### [Convolutional neural networks for segmentation and object detection of human semen](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:qsWQJNntlusC) ####
-MS Nissen, O Krause, K Almstrup, S Kjærulff, TT Nielsen, M Nielsen\
-Image Analysis: 20th Scandinavian Conference, SCIA 2017, Tromsø, Norway …
-
-<br/>
-
-#### [Characterization of errors in deep learning-based brain MRI segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cNe27ouKFcQC) ####
-A Pai, YC Teng, J Blair, M Kallenberg, EB Dam, S Sommer, C Igel, ...\
-Deep learning for medical image analysis, 223-242
-
-<br/>
-
-#### [Differential diagnosis of mild cognitive impairment and Alzheimer's disease using structural MRI cortical thickness, hippocampal shape, hippocampal texture, and volumetry](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:txeM2kYbVNMC) ####
-L Sørensen, C Igel, A Pai, I Balas, C Anker, M Lillholm, M Nielsen, ...\
-NeuroImage: Clinical 13, 470-482
-
-<br/>
-
-#### [A Statistical Model for Simultaneous Template Estimation, Bias Correction, and Registration of 3D Brain Images](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:idthP5jqfYAC) ####
-A Pai, S Sommer, LL Raket, L Kühnel, S Darkner, L Sørensen, M Nielsen\
-Medical Computer Vision and Bayesian and Graphical Models for Biomedical …
-
-<br/>
-
-#### [Mammographic density and structural features can individually and jointly contribute to breast cancer risk assessment in mammography screening: a case–control study](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:NtCmTCuxid4C) ####
-RR Winkel, M von Euler-Chelpin, M Nielsen, K Petersen, M Lillholm, ...\
-BMC cancer 16, 1-12
-
-<br/>
-
-#### [Extraction of a bias field invariant biomarker from an image](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:cRMvf6lLvU8C) ####
-L Sørensen, M Nielsen, I Christian\
-
-
-<br/>
-
-#### [IC‐P‐146: MCI Trial Enrichment Using MRI Hippocampus Texture](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=2QCJXEkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=2QCJXEkAAAAJ:q0uBw5dMOAkC) ####
-L Sørensen, C Igel, M Nielsen\
-Alzheimer's & Dementia 12, P108-P109
 
 <br/>
 

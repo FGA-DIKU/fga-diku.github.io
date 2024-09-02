@@ -1,7 +1,7 @@
 ---
-title: "FGA DIKU - Projects"
+title: "FiGra - Projects"
 layout: textlay
-excerpt: "FGA DIKU -- Projects"
+excerpt: "FiGra -- Projects"
 sitemap: false
 permalink: /projects/
 ---
@@ -10,7 +10,90 @@ permalink: /projects/
 
 Here we showcase some of the projects we are currently involved with. 
 
-### PHAIR -- Pharmacovigilance by AI Real-time Analyzes ### 
+<div class="row">
+<!-- First Column -->
+<div class="col-sm-6 clearfix">
+{% assign number_printed = 0 %}
+{% for proj in site.data.projects %}
+{% if proj.highlight == 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+<div class="well">
+<p><strong>{{ proj.title }}</strong></p>
+{% unless proj.image == nil %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="40%" style="float: left; margin-top: 0px; margin-right: 8px; margin-bottom: 2px" />
+{% endunless %}
+<p style="font-size:14px">{{ proj.description }}</p>
+<p>Representatives; <em>{{ proj.representatives }}</em></p>
+<p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
+</div>
+{% endif %}
+{% assign number_printed = number_printed | plus: 1 %}
+{% endif %}
+{% endfor %}
+</div>
+
+<!-- Second Column -->
+<div class="col-sm-6 clearfix">
+{% assign number_printed = 0 %}
+{% for proj in site.data.projects %}
+{% if proj.highlight == 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+<div class="well">
+<p><strong>{{ proj.title }}</strong></p>
+{% unless proj.image == nil %}
+<img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="40%" style="float: left; margin-top: 0px; margin-right: 8px; margin-bottom: 2px" />
+{% endunless %}
+<p style="font-size:14px">{{ proj.description }}</p>
+<p>Representatives; <em>{{ proj.representatives }}</em></p>
+<p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
+</div>
+{% endif %}
+{% assign number_printed = number_printed | plus: 1 %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+<!-- {% assign number_printed = 0 %}
+{% for proj in site.data.projects %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if proj.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <p>**{{ proj.title }}**</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ proj.image }}" class="img-responsive" width="40%" style="float: left; margin-top: 0px; margin-right: 8px; margin-bottom: 2px" />
+  <p style="font-size:14px">{{ proj.description }}</p>
+  <p>Representatives; <em>{{ proj.representatives }}</em></p>
+  <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p> -->
+<!-- ### PHAIR -- Pharmacovigilance by AI Real-time Analyzes ### 
 
 The goal of the research project [PHAIR](https://di.ku.dk/english/news/2022/faster-knowledge-of-side-effects-via-artificial-intelligence/) is to ensure faster and better knowledge about side effects and thereby increase the safety of medicinal products. 
 The project will make it possible to pick up unwanted effects of medicines faster and thereby increase the quality of treatment with medicines. 
@@ -89,4 +172,4 @@ The following four Research Questions (RQ1-RQ4) will be addressed in the project
 #### Our Role in MA*T*RIX ####
 What is our role? Any publications?
 
-<br/>
+<br/> -->

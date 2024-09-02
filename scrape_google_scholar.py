@@ -38,9 +38,9 @@ years = [years[i] for i in idx_to_keep]
 
 # The top of publications.md
 publications_head = """---
-title: "FGA DIKU - Publications"
+title: "FiGra - Publications"
 layout: gridlay
-excerpt: "FGA DIKU -- Publications."
+excerpt: "FiGra -- Publications."
 sitemap: false
 permalink: /publications/
 ---

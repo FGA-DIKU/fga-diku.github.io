@@ -1,7 +1,7 @@
 ---
-title: "FGA DIKU - Publications"
+title: "FiGra - Publications"
 layout: gridlay
-excerpt: "FGA DIKU -- Publications."
+excerpt: "FiGra -- Publications."
 sitemap: false
 permalink: /publications/
 ---

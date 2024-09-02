@@ -1,31 +1,37 @@
 - name: Asbjørn Munk
   photo: asbjørn-munk.jpg
   website: https://asbn.dk/
+  email: asmu@di.ku.dk
 
 - name: Jakob Ambsdorf
   photo: jakob-ambsdorf.jpeg
   website: https://di.ku.dk/english/staff/?pure=en/persons/770638
+  email: jaam@di.ku.dk
 
 - name: Julia Machnio
   photo: julia-machnio.jpeg
   website: https://di.ku.dk/english/staff/vip/researchers_p1ai/?pure=en/persons/803806
+  email: juma@di.ku.dk
 
 - name: Kiril Klein
   photo: kiril-klein.jpeg
   website: https://di.ku.dk/english/staff/?pure=en/persons/693923
+  email: kikl@di.ku.dk
 
 - name: Marcus Teller
   photo: marcus-teller.jpeg
   website: https://di.ku.dk/Ansatte/forskere/?pure=da/persons/600178
+  email: marcus@di.ku.dk
 
 - name: Maria Elkjær Montgomery
   photo: maria-elkjær-montgomery.jpeg
   website: https://di.ku.dk/english/staff/
+  email: maem@di.ku.dk
 
 - name: Mikkel Odgaard
   photo: mikkel-odgaard.jpeg
   website: https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fmikkel-fruelund-odgaard(a3b9b03b-2090-4a02-9057-3d9c9a9af490).html
-
+  email: miod@di.ku.dk
 # - name: Jacob Johansen
 #   photo: jacob-johansen.jpeg
 #   website: https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fjacob-johansen(aa76b9f0-8b0b-4c17-a001-84655acae81b).html
@@ -37,10 +43,7 @@
 - name: Zahra Sobhaninia
   photo: zahra-sobhaninia.jpeg
   website: https://di.ku.dk/english/staff/?pure=en/persons/798281
-
-- name: Stephan Sloth Lorenzen
-  photo: stephan-sloth-lorenzen.jpg
-  website: https://stephanlorenzen.dk/
+  email: zahra.s@di.ku.dk
 
 # - name: William Laprade
 #   photo: william-laprade.jpeg

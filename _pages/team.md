@@ -1,7 +1,7 @@
 ---
-title: "FGA DIKU - Team"
+title: "FiGra - Team"
 layout: gridlay
-excerpt: "FGA DIKU: Team members"
+excerpt: "FiGra: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -21,8 +21,9 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h5>{{ member.name }}</h5>
+  <h5>{{ member.info }} </h5>
   <h6> <a href="{{ member.website }}">Personal website</a> </h6>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <h6>email: <{{ member.email }}></h6>
   <ul style="overflow: hidden">
 
   </ul>
@@ -52,6 +53,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h5>{{ member.name }}</h5>
   <h6> <a href="{{ member.website }}">Personal website</a> </h6>
+  <h6>email: <{{ member.email }}></h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -70,6 +72,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h5>{{ member.name }}</h5>
   <h6> <a href="{{ member.website }}">Personal website</a> </h6>
+  <h6>email: <{{ member.email }}></h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -87,6 +90,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h5>{{ member.name }}</h5>
   <h6> <a href="{{ member.website }}">Personal website</a> </h6>
+  <h6>email: <{{ member.email }}></h6>
   <ul style="overflow: hidden"></ul>
 </div>
 
@@ -107,6 +111,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h5>{{ member.name }}</h5>
   <h6> <a href="{{ member.website }}">Personal website</a> </h6>
+  <h6>email: <{{ member.email }}></h6>
   <ul style="overflow: hidden"></ul>
 </div>
 

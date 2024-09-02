@@ -1,0 +1,50 @@
+- title: PHAIR — Pharmacovigilance by AI Real-time Analyzes
+  image: phair-vaccine.png
+  description: The goal of the research project PHAIR is to ensure faster and better knowledge about side effects and thereby increase the safety of medicinal products. The project will make it possible to pick up unwanted effects of medicines faster and thereby increase the quality of treatment with medicines. This will be done by combining national health data and using artificial intelligence in the form of algorithms and pattern recognition. The project is funded by Innovation Fund Denmark.
+  representatives: Mads Nielsen
+  link:
+    url: https://di.ku.dk/english/news/2022/faster-knowledge-of-side-effects-via-artificial-intelligence/
+    display: More info about PHAIR
+  highlight: 1
+
+- title: The Stroke Research Project
+  image: stroke-heart-brain.webp
+  description: The Stroke project aims to improve stroke care with artificial intelligence and will deliver the world’s first solution to significantly improve MRI-based stroke treatment and clinical workflow efficiency. Thus, the Stroke project intends to demonstrate the effectiveness of AI solutions in the real world to improve patient access and treatment together with optimizing efficiency in the clinical work process.
+  representatives: Mads Nielsen 
+  link:
+    url: https://www.aicentre.dk/news/research-project-will-improve-diagnostics-and-treatment-of-strokes-with-artificial-intelligence
+    display: More info about the Stroke project
+  highlight: 1
+
+- title: "MA*T* RIX -- Microbiome Assisted *Triticum* Resilience In X-dimensions"
+  image: matrix-grass.jpeg
+  description: In the MA*T* RIX project microbiome-assisted approaches are combined with deep-learning and modelling to quantitatively and predictably improve crop resilience management strategies. The project is focused on the taxonomic diversity and functional potential of the wheat flag leaf microbiome. Which key microbes are involved in plant protection against biotic and abiotic stress? Combined with machine learning, it is possible to predict microbiome-related changes and their effect on crop resilience and productivity under climate change scenarios.
+  representatives: Svetlana Kutuzova
+  link:
+    url: https://plen.ku.dk/english/research/microbial-ecology-and-biotechnology/environmental-microbial-genomics/microbiome-assisted-triticum-resilience-in-x-dimensions-the-matrix/
+    display: More info about the MA*T* RIX project
+  highlight: 1
+
+- title: White matter abnormality identification and characterization in the wild
+  description: The project aims to make white matter abnormality identification and characterization in MRI scans widely available to brain researchers by developing AI-based methods so robust and precise that fine-grained conclusions can be drawn from standard clinical data harvested in the wild and help with the disease diagnosis.
+  representatives: Mostafa Mehdipour Ghazi
+  link:
+    url: https://lundbeckfonden.com/en/white-matter-abnormality-identification-and-characterization-in-the-wild
+    display: More info about the project
+  highlight: 1
+
+- title: Precision Medicine Interventions in Alzheimer’s Disease
+  description: The Precision Medicine Interventions in Alzheimer’s Disease (PMI-AD) consortium will exploit our world-leading technologies and competences to stratify early-stage AD patients using novel mechanistic pathway-to-therapeutic algorithm to develop cost-effective, pathway-adapted diagnostics and early interventions to delay disease onset. We hypothesize that PM can be delivered based on optimized diagnostic tools utilizing innovative pathways and prediction modelling.
+  representatives: Mostafa Mehdipour Ghazi
+  link:
+    url: https://www.era-learn.eu/network-information/networks/sc1-hco-04-2018/personalised-medicine-for-neurodegenerative-diseases/precision-medicine-interventions-in-alzheimer2019s-disease
+    display: More info about PMI-AD
+  highlight: 1
+
+- title: "Beyond Point Estimates: Exploring Cortical Thickness Uncertainty from Clinical Psychiatric MRI Scans"
+  description: In his project, Stefano Cerri will develop automatic tools for reporting uncertainty estimates ("error bars") of cortical thickness measures from Magnetic Resonance Imaging (MRI) scans. Stefano will utilize the developed tools to obtain uncertainty measures to accurately classify psychiatric disorders from over 300.000 clinical MRI scans and shed some light on the variability within and across patient groups.
+  representatives: Stefano Cerri
+  link:
+    url: https://lundbeckfonden.com/en/beyond-point-estimates-exploring-cortical-thickness-uncertainty-from-clinical-psychiatric-mri-scans
+    display: More info about the project
+  highlight: 1
